@@ -1,0 +1,7 @@
+a=4
+while [ $a -le 4 ]
+ do 
+	 echo $( echo "Current Task: $(awk "NR==1" toDo.list)" &&  echo " |      Upcoming: $(awk "NR==2" toDo.list)" && echo -n "|    🎜 : $(cat ~/song.info)	|  $(pulsemixer --get-volume | awk '{print $1}') | " && echo -n "  " && acpi | awk '{print $4} ' && echo -n " |  " && date '+ %d %B %A %H:%M')
+sleep 1.5 
+done
+
