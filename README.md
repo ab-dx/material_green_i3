@@ -8,6 +8,7 @@
 * The scripts *multistat*, *toDo*, *clearToDo* and *modToDo* must be stored in /bin/
 * The script *music.sh* must be stored in the HOME directory.
 * The rofi theme *rofi.rasi* must be saved in /usr/share/rofi/themes/ and can be activated using rofi-theme-selector.
+* You can use the *Material_Dark_Theme_GTK3.zip* as your gtk theme, however, it is still a work in progress.
 
 ## The bar:
 ![Tint2 Bar](tint2_bar.png)
