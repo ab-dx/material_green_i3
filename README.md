@@ -10,6 +10,7 @@
 * To play music, your songs must be stored in *~/Music/All*
 * The rofi theme *rofi.rasi* must be saved in /usr/share/rofi/themes/ and can be activated using rofi-theme-selector.
 * You can use the *Material_Green_Dark_GTK3.zip* as your gtk theme, however, it is still a work in progress.
+* *.wallpaper.jpg* and *.wallpaper2.jpg* should be in the HOME directory.
 
 ## The bar:
 ![Tint2 Bar](tint2_bar.png)
