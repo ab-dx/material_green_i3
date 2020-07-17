@@ -7,6 +7,7 @@
 * The status bar is *tint2* and it uses the given *tint2rc*.
 * The scripts *multistat*, *toDo*, *clearToDo* and *modToDo* must be stored in /bin/
 * The script *music.sh* must be stored in the HOME directory.
+* To play music, your songs must be stored in *~/Music/All*
 * The rofi theme *rofi.rasi* must be saved in /usr/share/rofi/themes/ and can be activated using rofi-theme-selector.
 * You can use the *Material_Green_Dark_GTK3.zip* as your gtk theme, however, it is still a work in progress.
 
