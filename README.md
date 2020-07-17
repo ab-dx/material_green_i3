@@ -1,7 +1,7 @@
 # material_green_i3
 ## Preview:
 
-![alt text](s2.gif)
+![Preview](s2.gif)
 
 ## Things to remember:
 * The status bar is *tint2* and it uses the given *tint2rc*.
@@ -10,7 +10,7 @@
 * The rofi theme *rofi.rasi* must be saved in /usr/share/rofi/themes/ and can be activated using rofi-theme-selector.
 
 ## The bar:
-![alt text](tint2_bar.png)
+![Tint2 Bar](tint2_bar.png)
 * The tint2 bar is running the *multistat* script for status.
 * Clicking on the red dot will log you out of i3 (killall i3).
 * Left clicking the yellow dot runs the music script (launches music.sh which uses rofi).
@@ -19,6 +19,7 @@
 * Right clicking the green dot lets you delete tasks via rofi.
 
 ## The colorscheme:
+![Color Palette](palette.png)
 * Currently the colorscheme is only available for the xfce4-terminal via the *terminalrc*.
 * You can copy the *terminalrc* to ~/.config/xfce4/terminal/terminalrc
 * Black: #344B4C
