@@ -177,29 +177,3 @@ client.placeholder    #2E344000 #2E344000 #2E344000 #2E344000 #2E344000
 
 client.background       #2E344000
 
-#font xft:xos4 Noto Sans 10
-# Start i3bar to display a workspace bar (plus the system information i3status
-# finds out, if available)
-#bar{
-#		height 18
-#		strip_workspace_numbers yes
-##		position bottom 
-##		font pango: Fira Code 8.5
-#		i3bar_command i3bar -b bar-0
-#		separator_symbol "|"
-# #      status_command python /usr/share/powerline/bindings/i3/powerline-i3.py
-##	status_command sh ~/Github/bumblebee-status/bumblebee-status 
-#	status_command exec multistat 
-##		status_command exec mybar
- #    colors{
-#			background #282828 
-#			statusline #EDEDED
-##			separator #FFFFFF
-#			focused_workspace #DDDDDD #DDDDDD #282828
-#		active_workspace #111111 #111111 #282828
-#			inactive_workspace #282828 #282828 #DDDDDD
-#		urgent_workspace #FFFFFF #FFFFFF $bg
-#			
- #  }
-#		
-#}
